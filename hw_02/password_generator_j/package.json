@@ -1,0 +1,15 @@
+{
+    "name": "@jonny11/password_generator_j",
+    "version": "1.0.0",
+    "description": "password generator",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "author": "Jonny",
+    "license": "ISC",
+    "keywords": [
+        "password",
+        "generator"
+    ]
+}
