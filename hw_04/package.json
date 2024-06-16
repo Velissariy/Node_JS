@@ -1,0 +1,16 @@
+{
+    "name": "hw_04",
+    "version": "1.0.0",
+    "description": "Урок 4. Создание REST API с Express\r Для того, чтобы пользователи хранились постоянно, а не только, когда запущен сервер, необходимо реализовать хранение массива в файле.",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Jonny",
+    "license": "ISC",
+    "dependencies": {
+      "express": "^4.19.2",
+      "joi": "^17.13.1",
+      "joy": "^0.1.1"
+    }
+  }
